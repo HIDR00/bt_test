@@ -30,13 +30,3 @@ Trạng Thái: Thành công
 Kết quả sau khi kiểm thử:
 ![image](https://github.com/HIDR00/bt_test/assets/115889838/4dd5fc67-95aa-41fd-9467-61a4ceb1e080)
 
-
-6. Phát Hiện Lỗi: Chi tiết về lỗi, bao gồm:
-
-ID Lỗi: 404 Not Found
-
-Mô Tả Lỗi: Trang bạn đang tìm kiếm không tồn tại (404)
-
-Mức Độ Ảnh Hưởng: Không
-
-Ghi Chú/Đề Xuất: Sai URL và tham số
