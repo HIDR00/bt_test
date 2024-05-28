@@ -102,6 +102,9 @@ Người Kiểm Thử: Trần Đức Toản
 6. Xác minh tính hợp lệ của JSON bằng công cụ JSON validator trong Postman.
 
 ![image](https://github.com/HIDR00/bt_test/assets/115889838/da93ac03-414e-483b-b71f-72f401417510)
+7. Sử dụng Postman để kiểm tra hiệu suất API bằng cách đo thời gian phản hồi.
+
+![image](https://github.com/HIDR00/bt_test/assets/115889838/2d43cd63-acf8-482b-90f3-7b6deb57523c)
 
 
 
